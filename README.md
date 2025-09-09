@@ -1,5 +1,3 @@
-# Singapore-Tourism-Analysis
-Analyzed 15 years of tourism data to provide data-driven strategic recommendations for Singapore's Tourism 2040 vision, using Power BI and DAX.
 # From Recovery to Resilience: Analysis of Singapore's Tourism Market
 
 ## _A Data-Driven Strategy for Enduring Growth_
