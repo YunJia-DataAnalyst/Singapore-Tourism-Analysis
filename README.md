@@ -8,10 +8,10 @@ Analyzed 15 years of tourism data to provide data-driven strategic recommendatio
 ### **Project Screenshots**
 _Below are screenshots of the project dashboard. To showcase the analysis of key markets, I have included a deep-dive view for both a long-haul and a short-haul market._
 
-[![Project Dashboard]([[https://[i.imgur.com/yK7S60R.png](https://i.imgur.com/yK7S60R.png)]
-[![Country - USA]([[https://i.imgur.com/2ZgUE7E.png](https://i.imgur.com/2ZgUE7E.png)]
-[![Country - Indonesia]([[[https://i.imgur.com/gHildP9.png](https://i.imgur.com/gHildP9.png)]
-[![Demographics]([[[https://[i.imgur.com/dOEVYUb.png](https://i.imgur.com/dOEVYUb.png)]
+[![Project Dashboard](https://i.imgur.com/yK7S60R.png)](https://i.imgur.com/yK7S60R.png)
+[![Country - Indonesia](https://i.imgur.com/gHildP9.png)](https://i.imgur.com/gHildP9.png)
+[![Country - USA](https://i.imgur.com/2ZgUE7E.png)](https://i.imgur.com/2ZgUE7E.png)
+[![Demographics](https://i.imgur.com/dOEVYUb.png)](https://i.imgur.com/dOEVYUb.png)
 ---
 
 ### **Description of Dataset**
